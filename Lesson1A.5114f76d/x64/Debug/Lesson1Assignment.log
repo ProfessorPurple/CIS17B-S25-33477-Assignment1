@@ -1,0 +1,5 @@
+﻿  BankAccount.cpp
+C:\Users\Profe\Documents\SHOOL\SPRING2025\CIS-17B\CIS\Lesson1Assignment\BankAccount.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Lesson1Assignment.vcxproj -> C:\Users\Profe\Documents\SHOOL\SPRING2025\CIS-17B\CIS\Lesson1Assignment\x64\Debug\Lesson1Assignment.exe
